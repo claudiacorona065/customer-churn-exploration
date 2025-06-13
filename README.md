@@ -32,5 +32,9 @@ Se realiza un análisis exploratorio detallado a partir del dataset proporcionad
 
 Se plantea una **campaña de retención** dirigida a clientes con riesgo alto y contrato mensual, con descuentos o upgrades a contratos anuales, que podría suponer una recuperación económica significativa y mejora en la fidelización.
 
-## 
+## Autoría
+
+Proyecto desarrollado por **Claudia Corona Blanco**  
+Universidad Alfonso X el Sabio (UAX) – 2025  
+Asignatura: Fundamentos de Ciencia de Datos
 
